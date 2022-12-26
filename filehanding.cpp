@@ -18,7 +18,7 @@ int main(){
   out1.close();
    
 
-
+// istekhar khan is besttt
    string content;
    ifstream in("sample.txt");
    in>>content;
